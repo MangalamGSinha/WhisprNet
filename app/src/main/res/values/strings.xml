@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WhisprNet</string>
+    <string name="enter_nickname">Enter your nickname</string>
+    <string name="enter_room_code">Enter secret room code</string>
+    <string name="join_secure_room">Join Secure Room</string>
+    <string name="create_new_room">Create New Room</string>
+    <string name="type_message">Type your message...</string>
+    <string name="send">Send</string>
+    <string name="back">Back</string>
+    <string name="leave_room">Leave Room</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1009380451957",
+    "firebase_url": "https://whisper-net-a5c00-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "whisper-net-a5c00",
+    "storage_bucket": "whisper-net-a5c00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009380451957:android:a63cfb5cf90f5536a17a3c",
+        "android_client_info": {
+          "package_name": "com.example.whisprnet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjIkSXzC2ZaK4cIMC5jLdNn5jWBGxm34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="@color/background_dark">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/ic_whisper"
+        android:layout_marginBottom="32dp"
+        android:contentDescription="WhisprNet Logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WhisprNet"
+        android:textSize="32sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Whisper in. Speak freely. Disappear without a trace."
+        android:textSize="14sp"
+        android:textColor="@color/gray_light"
+        android:textAlignment="center"
+        android:layout_marginBottom="48dp" />
+
+    <!-- Updated EditText with custom background -->
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:hint="Enter your nickname"
+        android:textColor="@color/white"
+        android:textColorHint="@color/gray_light"
+        android:background="@drawable/edittext_background"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/etRoomCode"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:hint="Enter secret room code"
+        android:textColor="@color/white"
+        android:textColorHint="@color/gray_light"
+        android:background="@drawable/edittext_background"
+        android:padding="16dp"
+        android:layout_marginBottom="32dp"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnJoinRoom"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="Join Secure Room"
+        android:textSize="16sp"
+        android:backgroundTint="@color/primary"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnCreateRoom"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="Create New Room"
+        android:textSize="16sp"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:textColor="@color/primary"
+        android:strokeColor="@color/primary" />
+
+</LinearLayout>

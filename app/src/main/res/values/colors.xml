@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WhisprNet Colors -->
+    <color name="background_dark">#FF1A1A1A</color>
+    <color name="primary">#FF6C5CE7</color>
+    <color name="primary_dark">#FF2D3436</color>
+    <color name="gray_light">#FF9E9E9E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#FF00B894</color>
+    <color name="message_sent">#FF6C5CE7</color>
+    <color name="message_received">#FF2D3436</color>
+</resources>
