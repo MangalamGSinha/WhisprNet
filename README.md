@@ -23,14 +23,6 @@ WhisprNet is a privacy-first, real-time chat app for Android. It enables **anony
 
 ---
 
-## Screenshots
-![WhatsApp Image 2025-06-20 at 19 05 34_3bb705ce](https://github.com/user-attachments/assets/631b6176-8672-4694-a31d-34f95c0dde8c)
-![WhatsApp Image 2025-06-20 at 19 05 35_6f837621](https://github.com/user-attachments/assets/9b39afae-e11c-45ab-a8b7-5be7999efc80)
-![WhatsApp Image 2025-06-20 at 19 05 36_49b2c0b7](https://github.com/user-attachments/assets/227ba569-a26a-4ec0-884c-4566076aa97e)
-
-
----
-
 ## How It Works
 
 1. **Enter a nickname** and a secret room code.
