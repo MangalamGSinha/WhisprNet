@@ -8,7 +8,7 @@ import java.util.*
 import java.util.concurrent.TimeUnit
 
 class FirebaseMessageManager(private val listener: MessageListener) {
-    private val database = Firebase.database("https://whisper-net-a5c00-default-rtdb.asia-southeast1.firebasedatabase.app")
+    private val database = Firebase.database
     private var currentRoomRef: DatabaseReference? = null
     private var participantsRef: DatabaseReference? = null
     private var messageListener: ChildEventListener? = null
