@@ -53,7 +53,7 @@ WhisprNet is a privacy-first, real-time chat app for Android. It enables **anony
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/WhisprNet.git
+   git clone https://github.com/MangalamGSinha/WhisprNet.git
    ```
 2. Open in Android Studio.
 3. Add your `google-services.json` file to the `app/` folder.
